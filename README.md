@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MarkXLV/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/MarkXLV/leetcode/tree/master/0015-3sum) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MarkXLV/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/MarkXLV/leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/MarkXLV/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
