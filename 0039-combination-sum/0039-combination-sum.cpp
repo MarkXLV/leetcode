@@ -8,12 +8,14 @@ vector<vector<int>> res;
             res.push_back(ans);
             return;
         }
-        if(target<0 or idx==candidates.size())return;
+        if(target<0)return;
 
-        ans.push_back(candidates[idx]);
-        solve(candidates,target-candidates[idx],ans,idx);
-        ans.pop_back();
-        solve(candidates,target,ans,idx+1); 
+        for(int i=idx;i<candidates.size();i++)
+        {
+            ans.push_back(candidates[i]);
+            solve(candidates,target-candidates[i],ans,i);
+            ans.pop_back();
+        }
         
     }
 
