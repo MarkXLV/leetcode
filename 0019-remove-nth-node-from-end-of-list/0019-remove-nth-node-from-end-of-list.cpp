@@ -17,7 +17,6 @@ public:
         ListNode* first=temp;
         for(int i=0;i<=n;i++)
         {
-            if(second)
             second=second->next;
         }
 
