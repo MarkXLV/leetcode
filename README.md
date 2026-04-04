@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MarkXLV/leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/MarkXLV/leetcode/tree/master/0048-rotate-image) |
 ## Tree
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MarkXLV/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MarkXLV/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MarkXLV/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/MarkXLV/leetcode/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MarkXLV/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/MarkXLV/leetcode/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
