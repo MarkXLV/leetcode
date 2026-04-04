@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MarkXLV/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MarkXLV/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/MarkXLV/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/MarkXLV/leetcode/tree/master/0053-maximum-subarray) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MarkXLV/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/MarkXLV/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/MarkXLV/leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MarkXLV/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
