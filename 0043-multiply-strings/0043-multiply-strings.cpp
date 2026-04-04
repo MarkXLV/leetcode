@@ -1,40 +1,43 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     string multiply(string num1, string num2) {
-        int n=num1.size();
-        int m=num2.size();
-        if(num1=="0" or num2=="0")return "0";
-        vector<int>mul(n+m,0);
-        for(int i=n-1;i>=0;i--)
-        {
-            for(int j=m-1;j>=0;j--)
-            {
-                int x=(num1[i]-'0')*(num2[j]-'0');
-                mul[i+j+1]+=x;
+        // Edge case: if either number is "0", product is "0"
+        if (num1 == "0" || num2 == "0") return "0";
+
+        int n = (int)num1.size();
+        int m = (int)num2.size();
+
+        // Maximum length of product of n-digit and m-digit numbers is n + m
+        vector<int> result(n + m, 0);
+
+        // Multiply each digit from right to left (like manual multiplication)
+        for (int i = n - 1; i >= 0; --i) {
+            int d1 = num1[i] - '0';
+            for (int j = m - 1; j >= 0; --j) {
+                int d2 = num2[j] - '0';
+
+                int posLow = i + j + 1; // ones place for this multiplication
+                int posHigh = i + j;    // carry place
+
+                int sum = d1 * d2 + result[posLow];
+                result[posLow] = sum % 10;
+                result[posHigh] += sum / 10;
             }
         }
 
-        int carry=0;
-        for(int i=n+m-1;i>=0;i--)
-        {
-            int sum=carry+mul[i];
-            carry=sum/10;
-            mul[i]=sum%10;
-            cout<<mul[i]<<' ';
+        // Convert result vector to string, skipping leading zeros
+        string product;
+        int idx = 0;
+        while (idx < (int)result.size() && result[idx] == 0) idx++;
+
+        while (idx < (int)result.size()) {
+            product.push_back(char(result[idx] + '0'));
+            idx++;
         }
 
-        string ans="";
-        int i=0;
-        for(i;i<mul.size();i++)
-        {
-            if(mul[i]!=0)break;
-        }
-
-        for(i;i<mul.size();i++)
-        {
-            ans+=(mul[i]+'0');
-        }
-
-        return ans;
+        return product.empty() ? "0" : product;
     }
 };
