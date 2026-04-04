@@ -1,23 +1,15 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        double ans=1.0;
-        long long k=1ll*n;
-        bool pos=true;
-        if(n<0)
-        {
-            k=-1ll*n;
-            pos=false;
-        }
+        double res=1.0;
+        // abs of -INT_MIN is not defines threfore we need to make it long long
+        long long k=abs(1ll*n);
         for(int i=0;i<32;i++)
         {
             if((1<<i)&k)
-                ans*=x;
+            res=res*x;
             x=x*x;
         }
-        if(pos)
-        return ans;
-        else
-        return 1.0/ans;
+        return n>0?res:1.0/res;
     }
 };
