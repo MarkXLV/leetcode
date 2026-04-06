@@ -3,7 +3,10 @@ public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
        vector<vector<int>>ans;
        intervals.push_back(newInterval);
-       sort(intervals.begin(),intervals.end());
+       sort(intervals.begin(),intervals.end(),[](vector<int>& a,vector<int>&b)
+            {
+                return a[0]<b[0];
+            });
        ans.push_back(intervals[0]);
        for(int i=1;i<intervals.size();i++)
        {
