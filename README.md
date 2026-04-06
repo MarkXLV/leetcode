@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
+| [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MarkXLV/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/MarkXLV/leetcode/tree/master/0036-valid-sudoku) |
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
+| [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 ## String
 |  |
 | ------- |
@@ -160,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/MarkXLV/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
+## Counting
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
+## Data Stream
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
