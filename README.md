@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/MarkXLV/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/MarkXLV/leetcode/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MarkXLV/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MarkXLV/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/MarkXLV/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/MarkXLV/leetcode/tree/master/0091-decode-ways) |
 ## Binary Search
 |  |
 | ------- |
