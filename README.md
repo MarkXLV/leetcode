@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MarkXLV/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MarkXLV/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/MarkXLV/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/MarkXLV/leetcode/tree/master/0078-subsets) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MarkXLV/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MarkXLV/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MarkXLV/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/MarkXLV/leetcode/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MarkXLV/leetcode/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MarkXLV/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
