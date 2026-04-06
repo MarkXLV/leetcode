@@ -1,19 +1,22 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>res;
-        for(int i=0;i<(1<<nums.size());i++)
-        {
-            vector<int>temp;
-            for(int j=0;j<32;j++)
-            {
-                if((1<<j)&i)
-                {
-                    temp.push_back(nums[j]);
-                }
-            }
-            res.push_back(temp);
+        vector<vector<int>> result;
+        vector<int> subset;
+        // sort(nums.begin(), nums.end());  // Sort to handle duplicates
+        backtrack(nums, 0, subset, result);
+        return result;
+    }
+    
+private:
+    void backtrack(vector<int>& nums, int start, vector<int>& subset, vector<vector<int>>& result) {
+        result.push_back(subset);
+        for (int i = start; i < nums.size(); ++i) {
+            // Skip duplicates
+            if (i > start && nums[i] == nums[i - 1]) continue;
+            subset.push_back(nums[i]);
+            backtrack(nums, i + 1, subset, result);
+            subset.pop_back();
         }
-        return res;
     }
 };
