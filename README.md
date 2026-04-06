@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/MarkXLV/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/MarkXLV/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/MarkXLV/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MarkXLV/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MarkXLV/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MarkXLV/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MarkXLV/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/MarkXLV/leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/MarkXLV/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MarkXLV/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MarkXLV/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
 ## Linked List
 |  |
