@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
+| [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MarkXLV/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MarkXLV/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 ## Simulation
 |  |
 | ------- |
