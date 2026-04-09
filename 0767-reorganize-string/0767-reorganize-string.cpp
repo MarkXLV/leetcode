@@ -1,13 +1,12 @@
 class Solution {
 public:
     string reorganizeString(string s) {
+        // Who returns true loses priority”
         unordered_map<char, int> freq;
         for (char c : s) {
             freq[c]++;
         }
-        
-        auto cmp = [](pair<int, char> a, pair<int, char> b) { return a.first < b.first; };
-        priority_queue<pair<int, char>, vector<pair<int, char>>, decltype(cmp)> maxHeap(cmp);
+        priority_queue<pair<int, char>, vector<pair<int, char>>> maxHeap;
         
         for (auto& [ch, count] : freq) {
             if (count > (s.length() + 1) / 2) return "";
