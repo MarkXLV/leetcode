@@ -60,8 +60,6 @@ public:
         
     }
 
-
-
     void insert_node(int key,int val)
     {
         mp[key]=new Node(key,val);
@@ -77,7 +75,7 @@ public:
         node->left->right=node->right;
         node->right->left=node->left;
         mp.erase(node->key);
-        delete(node);
+        // delete(node);
         cap++;
     }
 };
