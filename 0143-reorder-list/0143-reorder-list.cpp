@@ -10,13 +10,13 @@
  */
 class Solution {
 public:
-    ListNode* fun(ListNode* head1,ListNode* head2)
-    {
-        if(!head1)return head2;
-        if(!head2)return head1;
-        head1->next=fun(head2,head1->next);
-        return head1;
-    }
+    // ListNode* fun(ListNode* head1,ListNode* head2)
+    // {
+    //     if(!head1)return head2;
+    //     if(!head2)return head1;
+    //     head1->next=fun(head2,head1->next);
+    //     return head1;
+    // }
     void reorderList(ListNode* head) {
         if(!head or !head->next)return;
         ListNode* slow=head;
@@ -42,6 +42,24 @@ public:
         }
         ListNode* head1=head;
         ListNode* head2=prev;
-        head1->next=fun(head2,head1->next);
+        // head1->next=fun(head2,head1->next);
+        while(head1 && head2)
+        {
+            ListNode* head11=head1->next;
+            ListNode* head22=head2->next;
+            if(head2)
+            head1->next=head2;
+            if(head11)
+            head2->next=head11;
+            head1=head11;
+            head2=head22;
+        }
+        //   1 2 
+        //   5 4 3
+        //   1-5-2
+        //   4 3
+
+        //   1-5-2-4-null
+        //   3
     }
 };
