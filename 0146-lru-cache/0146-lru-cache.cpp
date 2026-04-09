@@ -32,18 +32,10 @@ public:
         {
             cout<<key<<endl;
             int ans=mp[key]->val;
-            // delete 
-            Node* node=mp[key];
-            node->left->right=node->right;
-            node->right->left=node->left;
-            mp.erase(key);
-            delete(node);
+            // delete
+            remove_node(mp[key]);
             // insert
-            mp[key]=new Node(key,ans);
-            first->right->left=mp[key];
-            mp[key]->right=first->right;
-            mp[key]->left=first;
-            first->right=mp[key];
+            insert_node(key,ans);
 
             return ans;
         }
@@ -54,33 +46,39 @@ public:
         if(mp.count(key))
         {
             // delete 
-            Node* node=mp[key];
-            node->left->right=node->right;
-            node->right->left=node->left;
-            mp.erase(key);
-            delete(node);
-            cap++;
+            remove_node(mp[key]);
         }
         else
         {
             if(cap==0)
             {
-                Node* node=last->left;
-                node->left->right=node->right;
-                node->right->left=node->left;
-                mp.erase(node->key);
-                delete(node);
-                cap++;
-                
+                remove_node(last->left);
             }
         }
         // insert
-        mp[key]=new Node(key,value);
+        insert_node(key,value);
+        
+    }
+
+
+
+    void insert_node(int key,int val)
+    {
+        mp[key]=new Node(key,val);
         first->right->left=mp[key];
         mp[key]->right=first->right;
         mp[key]->left=first;
         first->right=mp[key];
         cap--;
+    }
+
+    void remove_node(Node* node)
+    {
+        node->left->right=node->right;
+        node->right->left=node->left;
+        mp.erase(node->key);
+        delete(node);
+        cap++;
     }
 };
 
