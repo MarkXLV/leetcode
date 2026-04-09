@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MarkXLV/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MarkXLV/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MarkXLV/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -152,15 +153,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MarkXLV/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MarkXLV/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/MarkXLV/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MarkXLV/leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MarkXLV/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MarkXLV/leetcode/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
