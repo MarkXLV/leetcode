@@ -35,7 +35,7 @@ public:
             // delete
             remove_node(mp[key]);
             // insert
-            insert_node(key,ans);
+            insert_node(mp[key]);
 
             return ans;
         }
@@ -46,37 +46,39 @@ public:
         if(mp.count(key))
         {
             // delete 
+            mp[key]->val=value;
             remove_node(mp[key]);
+            cap++;
         }
         else
         {
+            
             if(cap==0)
             {
-                remove_node(last->left);
+                Node* nodetodel=last->left;
+                remove_node(nodetodel);
+                mp.erase(nodetodel->key);
+                cap++;
             }
+            mp[key]=new Node(key,value);
         }
         // insert
-        insert_node(key,value);
+        insert_node(mp[key]);
+        cap--;
         
     }
-
-    void insert_node(int key,int val)
+    void insert_node(Node* node)
     {
-        mp[key]=new Node(key,val);
-        first->right->left=mp[key];
-        mp[key]->right=first->right;
-        mp[key]->left=first;
-        first->right=mp[key];
-        cap--;
+        first->right->left=node;
+        node->right=first->right;
+        node->left=first;
+        first->right=node;
     }
 
     void remove_node(Node* node)
     {
         node->left->right=node->right;
         node->right->left=node->left;
-        mp.erase(node->key);
-        // delete(node);
-        cap++;
     }
 };
 
