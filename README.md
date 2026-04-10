@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MarkXLV/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MarkXLV/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MarkXLV/leetcode/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MarkXLV/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/MarkXLV/leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/MarkXLV/leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0849-maximize-distance-to-closest-person](https://github.com/MarkXLV/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MarkXLV/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
