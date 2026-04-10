@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MarkXLV/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MarkXLV/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MarkXLV/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0849-maximize-distance-to-closest-person](https://github.com/MarkXLV/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MarkXLV/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MarkXLV/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MarkXLV/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 ## Simulation
 |  |
