@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MarkXLV/leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/MarkXLV/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/MarkXLV/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0849-maximize-distance-to-closest-person](https://github.com/MarkXLV/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/MarkXLV/leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/MarkXLV/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/MarkXLV/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/MarkXLV/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
