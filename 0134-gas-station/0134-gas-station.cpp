@@ -8,28 +8,20 @@ public:
             gas[i]=gas[i]-cost[i];
             sum+=gas[i];
         }
+        cout<<endl;
         if(sum<0)return -1;
-        int ans=0;
         int idx=0;
         int curr=0;
-        int mx=0;
-        for(int ii=0;ii<2*gas.size();ii++)
+        for(int i=0;i<gas.size();i++)
         {
-            int i=ii%n;
             curr+=gas[i];
+            
             if(curr<0)
             {
                 idx=i+1;
                 curr=0;
-            }else
-            {
-                if(curr>mx)
-                {
-                    mx=curr;
-                    ans=idx;
-                }
             }
         }
-        return ans;
+        return idx;
     }
 };
