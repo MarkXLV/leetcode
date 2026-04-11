@@ -1,74 +1,88 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class DSU {
 public:
-    vector<int> parent;
-    vector<int> rank;
+    vector<int> parent, rank;
+    int count; // number of components
 
     DSU(int n) {
         parent.resize(n);
         rank.resize(n, 0);
-        for (int i = 0; i < n; ++i) {
-            parent[i] = i;
-        }
+        count = 0;
+        for(int i = 0; i < n; i++) parent[i] = i;
+    }
+
+    void setCount(int c) {
+        count = c;
     }
 
     int find(int x) {
-        if (parent[x] != x) {
-            parent[x] = find(parent[x]); // Path compression
-        }
+        if(parent[x] != x)
+            parent[x] = find(parent[x]); // path compression
         return parent[x];
     }
 
     void unite(int x, int y) {
-        int rootX = find(x);
-        int rootY = find(y);
-        if (rootX != rootY) {
-            if (rank[rootX] > rank[rootY]) {
-                parent[rootY] = rootX;
-            } else if (rank[rootX] < rank[rootY]) {
-                parent[rootX] = rootY;
-            } else {
-                parent[rootY] = rootX;
-                rank[rootX]++;
-            }
+        int px = find(x);
+        int py = find(y);
+
+        if(px == py) return;
+
+        // union by rank
+        if(rank[px] < rank[py]) {
+            parent[px] = py;
+        } else if(rank[px] > rank[py]) {
+            parent[py] = px;
+        } else {
+            parent[py] = px;
+            rank[px]++;
         }
+
+        count--; // one less component
     }
 };
 
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
-        if (grid.empty()) return 0;
-        int rows = grid.size();
-        int cols = grid[0].size();
-        DSU dsu(rows * cols);
-        int numIslands = 0;
+        int m = grid.size();
+        int n = grid[0].size();
 
-        for (int i = 0; i < rows; ++i) {
-            for (int j = 0; j < cols; ++j) {
-                if (grid[i][j] == '1') {
-                    int index = i * cols + j;
+        DSU dsu(m * n);
 
-                    // Union with right and down neighbors
-                    if (j + 1 < cols && grid[i][j + 1] == '1') {
-                        dsu.unite(index, i * cols + (j + 1));
-                    }
-                    if (i + 1 < rows && grid[i + 1][j] == '1') {
-                        dsu.unite(index, (i + 1) * cols + j);
+        int landCount = 0;
+
+        // count land cells
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(grid[i][j] == '1') landCount++;
+            }
+        }
+
+        dsu.setCount(landCount);
+
+        // directions: right, down
+        int dirs[2][2] = {{0,1},{1,0}};
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+
+                if(grid[i][j] == '0') continue;
+
+                for(auto &d : dirs) {
+                    int ni = i + d[0];
+                    int nj = j + d[1];
+
+                    if(ni < m && nj < n && grid[ni][nj] == '1') {
+                        int id1 = i * n + j;
+                        int id2 = ni * n + nj;
+                        dsu.unite(id1, id2);
                     }
                 }
             }
         }
 
-        unordered_set<int> uniqueIslands;
-        for (int i = 0; i < rows; ++i) {
-            for (int j = 0; j < cols; ++j) {
-                if (grid[i][j] == '1') {
-                    int root = dsu.find(i * cols + j);
-                    uniqueIslands.insert(root);
-                }
-            }
-        }
-
-        return uniqueIslands.size();
+        return dsu.count;
     }
 };
