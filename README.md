@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MarkXLV/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MarkXLV/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MarkXLV/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/MarkXLV/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MarkXLV/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MarkXLV/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MarkXLV/leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/MarkXLV/leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
@@ -344,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MarkXLV/leetcode/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
