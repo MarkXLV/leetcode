@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
+        return maxProfit(2,prices);
         long long firstbuy=INT_MAX;  
         // 3 3 3 0 0 0 0 0
         long long firstsell=INT_MIN; 
@@ -20,4 +21,19 @@ public:
         }
         return ans;
     }
+    int maxProfit(int k, vector<int>& prices) {
+        int n=prices.size();
+        vector<vector<int>>dp(k+1,vector<int>(n,0));
+        for(int i=1;i<=k;i++)
+        {
+            int buy=-prices[0];
+            for(int j=1;j<n;j++)
+            {
+                dp[i][j]=max(dp[i][j-1],prices[j]+buy);
+                buy=max(buy,dp[i-1][j-1]-prices[j]);
+            }
+        }
+        return dp[k][n-1];
+    }
+    
 };
