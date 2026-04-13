@@ -1,29 +1,23 @@
 class Solution {
 public:
-int n;
-int dp[5001][2];
-    int solve(int idx,int hold,vector<int>&prices)
-    {
-        if(idx>=n)return 0;
-        int a1=-1,a2=-1;
-        if(dp[idx][hold]!=-1)
-        return dp[idx][hold];
-
-
-        if(hold==0)
-        {
-            a1=-prices[idx]+solve(idx+1,1,prices);
-            a2=solve(idx+1,0,prices);
-        }else
-        {
-            a1=prices[idx]+solve(idx+2,0,prices);
-            a2=solve(idx+1,1,prices);
-        }
-        return dp[idx][hold]=max(a1,a2);
-    }
     int maxProfit(vector<int>& prices) {
-        n=prices.size();
-        memset(dp,-1,sizeof(dp));
-        return solve(0,0,prices);
+        unordered_map<int,unordered_map<int,int>>dp;
+        // buy
+        dp[1][1]=-prices[0];
+        // rest
+        dp[1][0]=0;
+        // sold
+        dp[1][2]=0;
+        int n=prices.size();
+        for(int i=2;i<=prices.size();i++)
+        {
+            // sold
+            dp[i][2]=dp[i-1][1]+prices[i-1];
+            // buy
+            dp[i][1]=max(dp[i-1][0]-prices[i-1],dp[i-1][1]);
+            // rest
+            dp[i][0]=max(dp[i-1][0],max(dp[i-1][1],dp[i-1][2]));
+        }
+        return max(dp[n][2],dp[n][0]);
     }
 };
