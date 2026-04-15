@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MarkXLV/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MarkXLV/leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MarkXLV/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/MarkXLV/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MarkXLV/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0849-maximize-distance-to-closest-person](https://github.com/MarkXLV/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MarkXLV/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MarkXLV/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MarkXLV/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/MarkXLV/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MarkXLV/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/MarkXLV/leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
