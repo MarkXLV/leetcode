@@ -9,24 +9,25 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
-public:
-    unordered_map<string,int>mp;
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        mp.clear();
-        string ssub=serelize(subRoot);
-        string sroot=serelize(root);
-        if(mp[ssub]>1)return true;
-        return false; 
-    }
-    string serelize(TreeNode* root)
-    {
-        if(!root)return "N";
-        string l=serelize(root->left);
-        string r=serelize(root->right);
-        string c=to_string(root->val)+","+l+","+r;
-        mp[c]++;
-        return c;
+private:
+    std::unordered_set<std::string> subtreeHashes;
+
+    std::string serializeAndHash(TreeNode* node) {
+        if (!node) return "#";
+        std::string leftHash = serializeAndHash(node->left);
+        std::string rightHash = serializeAndHash(node->right);
+        std::string currentHash = std::to_string(node->val) + "," + leftHash + "," + rightHash;
+        subtreeHashes.insert(currentHash);
+        return currentHash;
     }
 
+public:
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+        std::string subRootHash = serializeAndHash(subRoot);
+        subtreeHashes.clear();
+        serializeAndHash(root);
+        return subtreeHashes.find(subRootHash) != subtreeHashes.end();
+    }
 };
