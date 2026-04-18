@@ -1,47 +1,39 @@
 class Solution {
+
+// If there are no vehicles on the left side or all vehicles on the left side are moving left, then flag is set to −1.
+// If a collision occurs on the left and the vehicles eventually stop, then flag is set to 0.
+// If there are consecutive vehicles on the left moving to the right, then flag stores the number of such vehicles.
 public:
     int countCollisions(string directions) {
+        int flag=-1;
         int ans=0;
-        stack<char>st;
-        int n=directions.size();
-        for(int i=0;i<n;i++)
+        for(auto ch:directions)
         {
-            if(directions[i]=='L')
+            if(ch=='L')
             {
-                int cn=0;
-                if(!st.empty())
+                if(flag>=0)
                 {
-                    if(st.top()=='R')
-                    {
-                        int cn=0;
-                        while(!st.empty() and st.top()=='R')
-                        {
-                            if(cn==0)cn+=2;
-                            else cn++;
-                            st.pop();
-                        }
-                        if(cn>0)st.push('S');
-                        ans+=cn;
-                    }else
-                    {
-                        ans++;
-                    }
+                    ans+=(flag+1);
+                    flag=0;
                 }
-                
-            }else if(directions[i]=='S')
+            }else if(ch=='S')
             {
-                while(!st.empty() and st.top()=='R')
+                if(flag>0)
                 {
-                    ans++;
-                    st.pop();
+                    ans+=flag;
                 }
-                st.push('S');
+                flag=0;
             }else
             {
-                st.push('R');
+                if(flag>=0)
+                {
+                    flag++;
+                }else
+                {
+                    flag=1;
+                }
             }
         }
-        
         return ans;
     }
 };
