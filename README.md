@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MarkXLV/leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 | [0849-maximize-distance-to-closest-person](https://github.com/MarkXLV/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MarkXLV/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/MarkXLV/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MarkXLV/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
