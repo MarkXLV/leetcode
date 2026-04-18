@@ -13,7 +13,7 @@ public:
             while(!st.empty())
             {
                 double time=(double)(cars[st.top()][0]-cars[i][0])/(cars[i][1]-cars[st.top()][1]);
-                if(ans[st.top()]==-1 || time<ans[st.top()])
+                if(ans[st.top()]==-1 || time<=ans[st.top()])
                 {
                     ans[i]=time;
                     break;
