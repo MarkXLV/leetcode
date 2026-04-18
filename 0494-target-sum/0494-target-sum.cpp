@@ -1,21 +1,19 @@
 class Solution {
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
-        unordered_map<int,int>curr;
-        curr[0]=1;
-        int n=nums.size();
+        unordered_map<int, int> counter;
+        counter[0] = 1;
 
-        for(int i=n-1;i>=0;i--)
-        {
-            unordered_map<int,int>temp;
-            for(auto [k,v]:curr)
-            {
-                temp[k-nums[i]]+=v;
-                temp[k+nums[i]]+=v;
+        for (int n : nums) {
+            unordered_map<int, int> temp;
+
+            for (const auto& [total, count] : counter) {
+                temp[total + n] += count;
+                temp[total - n] += count;
             }
-            curr=temp;
+            counter = temp;
         }
-        
-        return curr[target];
+
+        return counter[target];        
     }
 };
