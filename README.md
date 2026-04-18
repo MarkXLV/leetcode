@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/MarkXLV/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MarkXLV/leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MarkXLV/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/MarkXLV/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MarkXLV/leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0849-maximize-distance-to-closest-person](https://github.com/MarkXLV/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MarkXLV/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MarkXLV/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MarkXLV/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/MarkXLV/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MarkXLV/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
 ## Trie
 |  |
