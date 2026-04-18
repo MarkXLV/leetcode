@@ -10,7 +10,7 @@ public:
     void add(vector<int> point) {
         int x=point[0],y=point[1];
         points[x][y]++;
-        pointx[x].push_back(y);
+        pointx[x].push_back(y); 
     }
     
     int count(vector<int> point) {
