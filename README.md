@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/MarkXLV/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MarkXLV/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MarkXLV/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/MarkXLV/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MarkXLV/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/MarkXLV/leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/MarkXLV/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MarkXLV/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MarkXLV/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MarkXLV/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/MarkXLV/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/MarkXLV/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/MarkXLV/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MarkXLV/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/MarkXLV/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/MarkXLV/leetcode/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MarkXLV/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MarkXLV/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MarkXLV/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/MarkXLV/leetcode/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/MarkXLV/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MarkXLV/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/MarkXLV/leetcode/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -459,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/MarkXLV/leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/MarkXLV/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MarkXLV/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -468,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/MarkXLV/leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
