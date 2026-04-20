@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MarkXLV/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MarkXLV/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MarkXLV/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MarkXLV/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MarkXLV/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MarkXLV/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/MarkXLV/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/MarkXLV/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/MarkXLV/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MarkXLV/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MarkXLV/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MarkXLV/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/MarkXLV/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MarkXLV/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MarkXLV/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MarkXLV/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MarkXLV/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MarkXLV/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/MarkXLV/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/MarkXLV/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MarkXLV/leetcode/tree/master/0152-maximum-product-subarray) |
