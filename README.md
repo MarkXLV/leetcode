@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MarkXLV/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MarkXLV/leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0279-perfect-squares](https://github.com/MarkXLV/leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/MarkXLV/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MarkXLV/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/MarkXLV/leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/MarkXLV/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/MarkXLV/leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MarkXLV/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MarkXLV/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/MarkXLV/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MarkXLV/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/MarkXLV/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/MarkXLV/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MarkXLV/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/MarkXLV/leetcode/tree/master/0312-burst-balloons) |
