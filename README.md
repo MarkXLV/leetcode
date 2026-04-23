@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/MarkXLV/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MarkXLV/leetcode/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/MarkXLV/leetcode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MarkXLV/leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MarkXLV/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/MarkXLV/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/MarkXLV/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/MarkXLV/leetcode/tree/master/0853-car-fleet) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/MarkXLV/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
@@ -330,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MarkXLV/leetcode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/MarkXLV/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/MarkXLV/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/MarkXLV/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
@@ -549,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MarkXLV/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/MarkXLV/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
