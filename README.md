@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/MarkXLV/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MarkXLV/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/MarkXLV/leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MarkXLV/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/MarkXLV/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MarkXLV/leetcode/tree/master/0200-number-of-islands) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MarkXLV/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MarkXLV/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/MarkXLV/leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/MarkXLV/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MarkXLV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/MarkXLV/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/MarkXLV/leetcode/tree/master/0229-majority-element-ii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/MarkXLV/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/MarkXLV/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/MarkXLV/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/MarkXLV/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/MarkXLV/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/MarkXLV/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/MarkXLV/leetcode/tree/master/0229-majority-element-ii) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/MarkXLV/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/MarkXLV/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MarkXLV/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/MarkXLV/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MarkXLV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MarkXLV/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MarkXLV/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MarkXLV/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MarkXLV/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MarkXLV/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
