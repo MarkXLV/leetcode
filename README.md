@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/MarkXLV/leetcode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/MarkXLV/leetcode/tree/master/0846-hand-of-straights) |
 | [0849-maximize-distance-to-closest-person](https://github.com/MarkXLV/leetcode/tree/master/0849-maximize-distance-to-closest-person) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/MarkXLV/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/MarkXLV/leetcode/tree/master/0846-hand-of-straights) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MarkXLV/leetcode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/MarkXLV/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/MarkXLV/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/MarkXLV/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/MarkXLV/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
