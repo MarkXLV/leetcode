@@ -11,6 +11,7 @@ public:
        {
            auto [d,x,y]=dq.front();dq.pop_front();
            if(x==(n-1) && y==(m-1))return d;
+           if(d>dist[x][y])continue;
            for(auto &[dx,dy]:dir)
            {
                 int nx=x+dx;
