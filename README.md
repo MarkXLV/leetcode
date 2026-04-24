@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/MarkXLV/leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Sorting
 |  |
 | ------- |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Union-Find
 |  |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/MarkXLV/leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/MarkXLV/leetcode/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/MarkXLV/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
 ## Topological Sort
 |  |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/MarkXLV/leetcode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/MarkXLV/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Geometry
 |  |
 | ------- |
