@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MarkXLV/leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
+| [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/MarkXLV/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/MarkXLV/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/MarkXLV/leetcode/tree/master/0763-partition-labels) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/MarkXLV/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/MarkXLV/leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MarkXLV/leetcode/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 ## Stack
 |  |
 | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/MarkXLV/leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MarkXLV/leetcode/tree/master/0460-lfu-cache) |
+| [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 | [0981-time-based-key-value-store](https://github.com/MarkXLV/leetcode/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 ## Counting
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MarkXLV/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 ## Bucket Sort
 |  |
 | ------- |
