@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MarkXLV/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/MarkXLV/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MarkXLV/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/MarkXLV/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MarkXLV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/MarkXLV/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MarkXLV/leetcode/tree/master/0046-permutations) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MarkXLV/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/MarkXLV/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/MarkXLV/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/MarkXLV/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MarkXLV/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/MarkXLV/leetcode/tree/master/0127-word-ladder) |
