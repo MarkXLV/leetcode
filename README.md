@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/MarkXLV/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
+| [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2709-greatest-common-divisor-traversal](https://github.com/MarkXLV/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
+| [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/MarkXLV/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/MarkXLV/leetcode/tree/master/1871-jump-game-vii) |
 | [2211-count-collisions-on-a-road](https://github.com/MarkXLV/leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1871-jump-game-vii](https://github.com/MarkXLV/leetcode/tree/master/1871-jump-game-vii) |
+| [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/MarkXLV/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MarkXLV/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/MarkXLV/leetcode/tree/master/0212-word-search-ii) |
+| [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
