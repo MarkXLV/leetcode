@@ -1,57 +1,29 @@
 class MyHashSet {
 private:
-    struct ListNode {
-        int key;
-        ListNode* next;
-        ListNode(int k) : key(k), next(nullptr) {}
-    };
+    int set[31251];
 
-    vector<ListNode*> set;
-
-    int hash(int key) {
-        return key % set.size();
+    int getMask(int key) {
+        return 1 << (key % 32);
     }
 
 public:
     MyHashSet() {
-        set.resize(10000);
-        for (auto& bucket : set) {
-            bucket = new ListNode(0);
-        }
+        // key is in the range [1, 1000000]
+        // 31251 * 32 = 1000032
+        memset(set, 0, sizeof(set));
     }
 
     void add(int key) {
-        ListNode* cur = set[hash(key)];
-        while (cur->next) {
-            if (cur->next->key == key) {
-                return;
-            }
-            cur = cur->next;
-        }
-        cur->next = new ListNode(key);
+        set[key / 32] |= getMask(key);
     }
 
     void remove(int key) {
-        ListNode* cur = set[hash(key)];
-        while (cur->next) {
-            if (cur->next->key == key) {
-                ListNode* temp = cur->next;
-                cur->next = temp->next;
-                delete temp;
-                return;
-            }
-            cur = cur->next;
+        if (contains(key)) {
+            set[key / 32] ^= getMask(key);
         }
     }
 
     bool contains(int key) {
-        ListNode* cur = set[hash(key)];
-        while (cur->next) {
-            if (cur->next->key == key) {
-                return true;
-            }
-            cur = cur->next;
-        }
-        return false;
+        return (set[key / 32] & getMask(key)) != 0;
     }
 };
