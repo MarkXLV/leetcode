@@ -1,22 +1,29 @@
 class FreqStack {
-private:
-    priority_queue<vector<int>> heap; // {frequency, index, value}
-    unordered_map<int, int> cnt;
-    int index;
-
 public:
-    FreqStack() : index(0) {}
+    unordered_map<int, int> cnt;
+    unordered_map<int, stack<int>> stacks;
+    int maxCnt;
+
+    FreqStack() {
+        maxCnt = 0;
+    }
 
     void push(int val) {
-        cnt[val]++;
-        heap.push({cnt[val], index++, val});
+        int valCnt = ++cnt[val];
+        if (valCnt > maxCnt) {
+            maxCnt = valCnt;
+            stacks[valCnt] = stack<int>();
+        }
+        stacks[valCnt].push(val);
     }
 
     int pop() {
-        auto top = heap.top();
-        heap.pop();
-        int val = top[2];
-        cnt[val]--;
-        return val;
+        int res = stacks[maxCnt].top();
+        stacks[maxCnt].pop();
+        cnt[res]--;
+        if (stacks[maxCnt].empty()) {
+            maxCnt--;
+        }
+        return res;
     }
 };
