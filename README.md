@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/MarkXLV/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
+| [1834-single-threaded-cpu](https://github.com/MarkXLV/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1929-concatenation-of-array](https://github.com/MarkXLV/leetcode/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MarkXLV/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1834-single-threaded-cpu](https://github.com/MarkXLV/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
+| [1834-single-threaded-cpu](https://github.com/MarkXLV/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
