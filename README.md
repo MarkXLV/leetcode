@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/MarkXLV/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/MarkXLV/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3133-minimum-array-end](https://github.com/MarkXLV/leetcode/tree/master/3133-minimum-array-end) |
 ## Design
 |  |
 | ------- |
