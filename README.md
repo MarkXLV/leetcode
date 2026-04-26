@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MarkXLV/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MarkXLV/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MarkXLV/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/MarkXLV/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MarkXLV/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/MarkXLV/leetcode/tree/master/0279-perfect-squares) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/MarkXLV/leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/MarkXLV/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/MarkXLV/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MarkXLV/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/MarkXLV/leetcode/tree/master/0079-word-search) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MarkXLV/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/MarkXLV/leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/MarkXLV/leetcode/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/MarkXLV/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MarkXLV/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MarkXLV/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MarkXLV/leetcode/tree/master/0287-find-the-duplicate-number) |
