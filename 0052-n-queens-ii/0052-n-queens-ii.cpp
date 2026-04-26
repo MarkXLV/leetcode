@@ -1,36 +1,36 @@
 class Solution {
 public:
-    unordered_map<int,bool>row,col,ldiag,rdiag;
-    int ans=0;
+    unordered_set<int> col;
+    unordered_set<int> posDiag;
+    unordered_set<int> negDiag;
+
     int totalNQueens(int n) {
-        permute(n,0);
-        return ans;
+        int res = 0;
+        backtrack(0, n, res);
+        return res;
     }
-    void permute(int n,int k)
-    {
-        if(k==n)
-        {
-            ans++;
+
+private:
+    void backtrack(int r, int n, int& res) {
+        if (r == n) {
+            res++;
             return;
         }
 
-        for(int i=0;i<n;i++)
-        {
-            if(!row[k] && !col[i] && !rdiag[k-i] && !ldiag[k+i])
-            {
-                cout<<i<<k<<endl;
-                row[k]=true;
-                col[i]=true;
-                rdiag[k-i]=true;
-                ldiag[k+i]=true;
-                permute(n,k+1);
-                row[k]=false;
-                col[i]=false;
-                rdiag[k-i]=false;
-                ldiag[k+i]=false;
+        for (int c = 0; c < n; c++) {
+            if (col.count(c) || posDiag.count(r + c) || negDiag.count(r - c)) {
+                continue;
             }
-        }
 
+            col.insert(c);
+            posDiag.insert(r + c);
+            negDiag.insert(r - c);
+
+            backtrack(r + 1, n, res);
+
+            col.erase(c);
+            posDiag.erase(r + c);
+            negDiag.erase(r - c);
+        }
     }
 };
-
