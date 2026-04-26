@@ -1,36 +1,27 @@
 class Solution {
-public:
-    vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size() - 1);
-        return nums;
-    }
-
 private:
-    void mergeSort(vector<int>& arr, int l, int r) {
-        if (l >= r) return;
-        int m = (l + r) / 2;
-        mergeSort(arr, l, m);
-        mergeSort(arr, m + 1, r);
-        merge(arr, l, m, r);
-    }
+    void countingSort(vector<int> &arr) {
+        unordered_map<int, int> count;
+        int minVal = *min_element(arr.begin(), arr.end());
+        int maxVal = *max_element(arr.begin(), arr.end());
 
-    void merge(vector<int>& arr, int l, int m, int r) {
-        vector<int> temp;
-        int i = l, j = m + 1;
+        for (auto& val : arr) {
+            count[val]++;
+        }
 
-        while (i <= m && j <= r) {
-            if (arr[i] <= arr[j]) {
-                temp.push_back(arr[i++]);
-            } else {
-                temp.push_back(arr[j++]);
+        int index = 0;
+        for (int val = minVal; val <= maxVal; ++val) {
+            while (count[val] > 0) {
+                arr[index] = val;
+                index += 1;
+                count[val] -= 1;
             }
         }
+    }
 
-        while (i <= m) temp.push_back(arr[i++]);
-        while (j <= r) temp.push_back(arr[j++]);
-
-        for (int i = l; i <= r; i++) {
-            arr[i] = temp[i - l];
-        }
+public:
+    vector<int> sortArray(vector<int>& nums) {
+        countingSort(nums);
+        return nums;
     }
 };
