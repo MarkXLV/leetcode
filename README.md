@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/MarkXLV/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MarkXLV/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/MarkXLV/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/MarkXLV/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/MarkXLV/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/MarkXLV/leetcode/tree/master/1405-longest-happy-string) |
+| [1768-merge-strings-alternately](https://github.com/MarkXLV/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/MarkXLV/leetcode/tree/master/1871-jump-game-vii) |
 | [2211-count-collisions-on-a-road](https://github.com/MarkXLV/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
