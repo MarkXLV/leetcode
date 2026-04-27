@@ -8,21 +8,21 @@ public:
         unordered_map<int,int>dropm;
         for(auto x:trips)
         {
-            pickm[x[1]]+=x[0];
-            dropm[x[2]]+=x[0];
-            // pick.push_back({x[1],x[0]});
-            // drop.push_back({x[2],x[0]});
+            // pickm[x[1]]+=x[0];
+            // dropm[x[2]]+=x[0];
+            pick.push_back({x[1],x[0]});
+            drop.push_back({x[2],x[0]});
         }
 
-        for(auto &[u,v]:pickm)
-        {
-            pick.push_back({u,v});
-        }
+        // for(auto &[u,v]:pickm)
+        // {
+        //     pick.push_back({u,v});
+        // }
 
-        for(auto &[u,v]:dropm)
-        {
-            drop.push_back({u,v});
-        }
+        // for(auto &[u,v]:dropm)
+        // {
+        //     drop.push_back({u,v});
+        // }
 
         sort(pick.begin(),pick.end());
         sort(drop.begin(),drop.end());
@@ -41,8 +41,8 @@ public:
             }else
             {
                 capacity+=drop[j].second;
-                capacity-=pick[i].second;
-                i++;
+                // capacity-=pick[i].second;
+                // i++;
                 j++;
             }
             // cout<<capacity<<endl;
