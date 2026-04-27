@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/MarkXLV/leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/MarkXLV/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/MarkXLV/leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MarkXLV/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MarkXLV/leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/MarkXLV/leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/MarkXLV/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/MarkXLV/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MarkXLV/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/MarkXLV/leetcode/tree/master/0853-car-fleet) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MarkXLV/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MarkXLV/leetcode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/MarkXLV/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/MarkXLV/leetcode/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/MarkXLV/leetcode/tree/master/1929-concatenation-of-array) |
