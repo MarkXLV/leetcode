@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MarkXLV/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MarkXLV/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/MarkXLV/leetcode/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/MarkXLV/leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/MarkXLV/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/MarkXLV/leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/MarkXLV/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/MarkXLV/leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MarkXLV/leetcode/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/MarkXLV/leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 ## Stack
 |  |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/MarkXLV/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/MarkXLV/leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/MarkXLV/leetcode/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/MarkXLV/leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 | [0895-maximum-frequency-stack](https://github.com/MarkXLV/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/MarkXLV/leetcode/tree/master/0901-online-stock-span) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MarkXLV/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/MarkXLV/leetcode/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/MarkXLV/leetcode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MarkXLV/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
