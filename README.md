@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/MarkXLV/leetcode/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/MarkXLV/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/MarkXLV/leetcode/tree/master/0901-online-stock-span) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/MarkXLV/leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/MarkXLV/leetcode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
 | [0895-maximum-frequency-stack](https://github.com/MarkXLV/leetcode/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/MarkXLV/leetcode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/MarkXLV/leetcode/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 ## Counting
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MarkXLV/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/MarkXLV/leetcode/tree/master/0901-online-stock-span) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 ## Binary Search Tree
 |  |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/MarkXLV/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/MarkXLV/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/MarkXLV/leetcode/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/MarkXLV/leetcode/tree/master/0901-online-stock-span) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
 ## Shortest Path
 |  |
