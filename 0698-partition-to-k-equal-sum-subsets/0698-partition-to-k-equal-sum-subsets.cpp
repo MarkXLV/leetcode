@@ -23,6 +23,9 @@ private:
             used[i] = true;
             if (backtrack(nums, k, currentSum + nums[i], i + 1)) return true;
             used[i] = false;
+
+
+            while (i + 1 < nums.size() && nums[i] == nums[i + 1]) i++;
         }
         return false;
     }
