@@ -1,52 +1,57 @@
 class MyCircularQueue {
+private:
+    struct ListNode {
+        int val;
+        ListNode* next;
+        ListNode* prev;
+        ListNode(int v, ListNode* n = nullptr, ListNode* p = nullptr)
+            : val(v), next(n), prev(p) {}
+    };
+
+    int space;
+    ListNode* left;
+    ListNode* right;
+
 public:
-    int K;
-    deque<int>dq;
-    MyCircularQueue(int k):K(k) {
-        
+    MyCircularQueue(int k) {
+        space = k;
+        left = new ListNode(0);
+        right = new ListNode(0, nullptr, left);
+        left->next = right;
     }
-    
+
     bool enQueue(int value) {
-        if(dq.size()<K)
-        {
-            dq.push_back(value);
-            return true;
-        }
-        return false;
-    }
-    
-    bool deQueue() {
-        if(dq.empty())return false;
-        dq.pop_front();
+        if (isFull()) return false;
+        ListNode* cur = new ListNode(value, right, right->prev);
+        right->prev->next = cur;
+        right->prev = cur;
+        space--;
         return true;
     }
-    
+
+    bool deQueue() {
+        if (isEmpty()) return false;
+        ListNode* tmp = left->next;
+        left->next = left->next->next;
+        left->next->prev = left;
+        delete tmp;
+        space++;
+        return true;
+    }
+
     int Front() {
-        if(dq.empty())return -1;
-        return dq.front();
+        return isEmpty() ? -1 : left->next->val;
     }
-    
+
     int Rear() {
-        if(dq.empty())return -1;
-        return dq.back();
+        return isEmpty() ? -1 : right->prev->val;
     }
-    
+
     bool isEmpty() {
-        return dq.empty();
+        return left->next == right;
     }
-    
+
     bool isFull() {
-        return dq.size()==K;
+        return space == 0;
     }
 };
-
-/**
- * Your MyCircularQueue object will be instantiated and called as such:
- * MyCircularQueue* obj = new MyCircularQueue(k);
- * bool param_1 = obj->enQueue(value);
- * bool param_2 = obj->deQueue();
- * int param_3 = obj->Front();
- * int param_4 = obj->Rear();
- * bool param_5 = obj->isEmpty();
- * bool param_6 = obj->isFull();
- */
