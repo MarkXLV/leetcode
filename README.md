@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/MarkXLV/leetcode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/MarkXLV/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/MarkXLV/leetcode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/MarkXLV/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/MarkXLV/leetcode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/MarkXLV/leetcode/tree/master/0502-ipo) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/MarkXLV/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/MarkXLV/leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/MarkXLV/leetcode/tree/master/0212-word-search-ii) |
+| [0473-matchsticks-to-square](https://github.com/MarkXLV/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/MarkXLV/leetcode/tree/master/0494-target-sum) |
 ## Linked List
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/MarkXLV/leetcode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/MarkXLV/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MarkXLV/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/MarkXLV/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/MarkXLV/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MarkXLV/leetcode/tree/master/0518-coin-change-ii) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MarkXLV/leetcode/tree/master/0090-subsets-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/MarkXLV/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/MarkXLV/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/MarkXLV/leetcode/tree/master/0473-matchsticks-to-square) |
 | [3133-minimum-array-end](https://github.com/MarkXLV/leetcode/tree/master/3133-minimum-array-end) |
 ## Design
 |  |
@@ -852,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/MarkXLV/leetcode/tree/master/0912-sort-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/MarkXLV/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
