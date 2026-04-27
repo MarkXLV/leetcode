@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/MarkXLV/leetcode/tree/master/0997-find-the-town-judge) |
 | [1049-last-stone-weight-ii](https://github.com/MarkXLV/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/MarkXLV/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/MarkXLV/leetcode/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/MarkXLV/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MarkXLV/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1834-single-threaded-cpu](https://github.com/MarkXLV/leetcode/tree/master/1834-single-threaded-cpu) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/MarkXLV/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MarkXLV/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MarkXLV/leetcode/tree/master/0067-add-binary) |
+| [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/MarkXLV/leetcode/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/MarkXLV/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/MarkXLV/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
 | [1834-single-threaded-cpu](https://github.com/MarkXLV/leetcode/tree/master/1834-single-threaded-cpu) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MarkXLV/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MarkXLV/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MarkXLV/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/MarkXLV/leetcode/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/MarkXLV/leetcode/tree/master/1871-jump-game-vii) |
 ## String Matching
