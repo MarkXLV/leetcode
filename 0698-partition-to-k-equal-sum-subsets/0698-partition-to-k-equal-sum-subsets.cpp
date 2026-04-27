@@ -15,7 +15,7 @@ public:
 
 private:
     bool backtrack(vector<int>& nums, int k, int currentSum, int start) {
-        if (k == 0) return true;
+        if (k == 1) return true;
         if (currentSum == target) return backtrack(nums, k - 1, 0, 0);
 
         for (int i = start; i < nums.size(); i++) {
