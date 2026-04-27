@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/MarkXLV/leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/MarkXLV/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/MarkXLV/leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/MarkXLV/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MarkXLV/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0953-verifying-an-alien-dictionary](https://github.com/MarkXLV/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/MarkXLV/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/MarkXLV/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/MarkXLV/leetcode/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/MarkXLV/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/MarkXLV/leetcode/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/MarkXLV/leetcode/tree/master/1405-longest-happy-string) |
 ## Matrix
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/MarkXLV/leetcode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/MarkXLV/leetcode/tree/master/0853-car-fleet) |
+| [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/MarkXLV/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
