@@ -1,3 +1,12 @@
+// Algorithm
+// Calculate the total length and target side length. Return false if total is not divisible by 4.
+// Sort matchsticks in descending order for early pruning.
+// In the recursive function, try placing the current matchstick on each side:
+// Skip if adding the matchstick would exceed the target length.
+// If placement succeeds recursively, return true.
+// Backtrack by removing the matchstick.
+// If the current side is empty after backtracking, stop trying other sides (they are equivalent).
+// Return true if all matchsticks are placed successfully.
 class Solution {
 public:
     bool makesquare(vector<int>& matchsticks) {
