@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/MarkXLV/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0834-sum-of-distances-in-tree](https://github.com/MarkXLV/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
 ## Depth-First Search
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/MarkXLV/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/MarkXLV/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/MarkXLV/leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MarkXLV/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MarkXLV/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/MarkXLV/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/MarkXLV/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/MarkXLV/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/MarkXLV/leetcode/tree/master/0978-longest-turbulent-subarray) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MarkXLV/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MarkXLV/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/MarkXLV/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0997-find-the-town-judge](https://github.com/MarkXLV/leetcode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/MarkXLV/leetcode/tree/master/1462-course-schedule-iv) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MarkXLV/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
