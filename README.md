@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MarkXLV/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/MarkXLV/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/MarkXLV/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MarkXLV/leetcode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/MarkXLV/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/MarkXLV/leetcode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/MarkXLV/leetcode/tree/master/0486-predict-the-winner) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MarkXLV/leetcode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/MarkXLV/leetcode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/MarkXLV/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MarkXLV/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MarkXLV/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/MarkXLV/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/MarkXLV/leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/MarkXLV/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/MarkXLV/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/MarkXLV/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/MarkXLV/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/MarkXLV/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/MarkXLV/leetcode/tree/master/0229-majority-element-ii) |
