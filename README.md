@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/MarkXLV/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/MarkXLV/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1044-longest-duplicate-substring](https://github.com/MarkXLV/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MarkXLV/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/MarkXLV/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/MarkXLV/leetcode/tree/master/1405-longest-happy-string) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/MarkXLV/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/MarkXLV/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/MarkXLV/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1044-longest-duplicate-substring](https://github.com/MarkXLV/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/MarkXLV/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/MarkXLV/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/MarkXLV/leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [1044-longest-duplicate-substring](https://github.com/MarkXLV/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1871-jump-game-vii](https://github.com/MarkXLV/leetcode/tree/master/1871-jump-game-vii) |
 ## Combinatorics
 |  |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MarkXLV/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
+| [1044-longest-duplicate-substring](https://github.com/MarkXLV/leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -909,4 +913,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MarkXLV/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/MarkXLV/leetcode/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/MarkXLV/leetcode/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
