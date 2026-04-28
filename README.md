@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1929-concatenation-of-array](https://github.com/MarkXLV/leetcode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MarkXLV/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/MarkXLV/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/MarkXLV/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/MarkXLV/leetcode/tree/master/1405-longest-happy-string) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/MarkXLV/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Matrix
 |  |
 | ------- |
