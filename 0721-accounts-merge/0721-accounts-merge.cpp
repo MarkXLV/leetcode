@@ -24,13 +24,12 @@ public:
         if (p1 == p2) {
             return false;
         }
-        if (rank[p1] > rank[p2]) {
-            parent[p2] = p1;
-            rank[p1] += rank[p2];
-        } else {
-            parent[p1] = p2;
-            rank[p2] += rank[p1];
-        }
+        if (rank[p1] < rank[p2])
+        swap(p1,p2);
+       
+        parent[p2] = p1;
+        rank[p1] += rank[p2];
+       
         return true;
     }
 };
