@@ -1,24 +1,47 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        // maths .
-        // A--A--A
-        // AB-AB-AB
         map<char,int>mp;
-        int mx=0;
         for(auto x:tasks)
         {
-            mp[x]++;
-            mx=max(mx,mp[x]);
+            mp[x-'A']++;
         }
-        int num_max=0;
-        for(const auto&[c,f]:mp)
+        priority_queue<int,vector<int>>pq;
+        for(int i=0;i<26;i++)
         {
-            if(f==mx)
+            if(mp[i]>0)
             {
-                num_max++;
+                pq.push(mp[i]);
             }
         }
-        return max((int)tasks.size(),(n+1)*(mx-1)+num_max);
+
+        int time=0;
+  
+        while(!pq.empty())
+        {
+            vector<int>reserve;
+            int cycle=n+1;
+
+            while(cycle and !pq.empty())
+            {
+                auto x=pq.top();
+                pq.pop();
+                if(x-1>0)
+                {
+                    reserve.push_back(x-1);
+                }
+                time++;
+                cycle--;
+            }
+
+            for(auto count:reserve)
+            pq.push(count);
+
+            if(pq.empty())
+            break;
+
+            time+=cycle;
+        }
+        return time;
     }
 };
