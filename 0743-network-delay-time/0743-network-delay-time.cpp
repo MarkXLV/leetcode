@@ -1,7 +1,10 @@
 class Solution {
 public:
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        priority_queue<pair<int,int>>pq;
+        priority_queue<
+    pair<int,int>, 
+    vector<pair<int,int>>, 
+    greater<pair<int,int>>> pq;
         vector<vector<pair<int,int>>>adj(n+1);
         for(auto &x:times)
         {
