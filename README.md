@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MarkXLV/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1584-min-cost-to-connect-all-points](https://github.com/MarkXLV/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MarkXLV/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
 | [1834-single-threaded-cpu](https://github.com/MarkXLV/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/MarkXLV/leetcode/tree/master/1405-longest-happy-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MarkXLV/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MarkXLV/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/MarkXLV/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Matrix
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MarkXLV/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MarkXLV/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MarkXLV/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1834-single-threaded-cpu](https://github.com/MarkXLV/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
