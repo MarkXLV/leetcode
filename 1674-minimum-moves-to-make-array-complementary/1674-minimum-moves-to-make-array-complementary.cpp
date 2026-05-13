@@ -22,7 +22,9 @@ public:
 
         
         int min_ops = n;
-
+// A Different Way to Count
+// For any target sum c, total moves =
+// N/2 (total pairs) - pairs that already equal c + pairs that need 2 moves
         for (int c = 2; c <= 2 * limit; ++c) {
             int add_left =
                 n / 2 - (lower_bound(min_arr.begin(), min_arr.end(), c) -
