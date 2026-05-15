@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/MarkXLV/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MarkXLV/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2709-greatest-common-divisor-traversal](https://github.com/MarkXLV/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2784-check-if-array-is-good](https://github.com/MarkXLV/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/MarkXLV/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MarkXLV/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
