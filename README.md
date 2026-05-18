@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MarkXLV/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/MarkXLV/leetcode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/MarkXLV/leetcode/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/MarkXLV/leetcode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/MarkXLV/leetcode/tree/master/1140-stone-game-ii) |
 | [1306-jump-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/MarkXLV/leetcode/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MarkXLV/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/MarkXLV/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/MarkXLV/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/MarkXLV/leetcode/tree/master/0997-find-the-town-judge) |
+| [1345-jump-game-iv](https://github.com/MarkXLV/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MarkXLV/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
