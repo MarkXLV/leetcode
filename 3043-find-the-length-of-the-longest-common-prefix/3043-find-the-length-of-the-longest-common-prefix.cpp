@@ -1,6 +1,5 @@
 struct Node{
     unordered_map<char,Node*>mp;
-    bool isend=false;
 };
 class Trie
 {
@@ -24,7 +23,6 @@ class Trie
                     }
                     temp=temp->mp[xx];
                 }
-                temp->isend=true;
             }
         }
         int find(int x)
