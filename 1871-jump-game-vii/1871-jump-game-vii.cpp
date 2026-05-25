@@ -1,26 +1,23 @@
 class Solution {
 public:
     bool canReach(string s, int minJump, int maxJump) {
-        queue<int>q;
-        int n=s.size();
-        if(s[n-1]!='0')return false;
+        int n = s.size();
+        queue<int> q;
         q.push(0);
-        int considered=0;
-        while(!q.empty())
-        {
-            int x=q.front();
-            q.pop();
-            if(x+minJump<=n-1 && x+maxJump>=n-1)return true;
-            for(int k=max(considered+1,x+minJump);k<=min(x+maxJump,n-1);k++)
-            {
-                if(s[k]=='0')
-                    q.push(k);
+        int farthest = 0;
 
-                if(k==n-1)
-                    return true;
+        while (!q.empty()) {
+            int i = q.front(); q.pop();
+
+            for (int j = max(i + minJump, farthest + 1); j <= min(i + maxJump, n - 1); ++j) {
+                if (s[j] == '0') {
+                    if (j == n - 1) return true;
+                    q.push(j);
+                }
             }
-            considered=x+maxJump;
+            farthest = min(i + maxJump, n - 1);
         }
+
         return false;
     }
 };
