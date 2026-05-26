@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/MarkXLV/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MarkXLV/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/MarkXLV/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/MarkXLV/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MarkXLV/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/MarkXLV/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
