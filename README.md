@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/MarkXLV/leetcode/tree/master/1776-car-fleet-ii) |
 | [2709-greatest-common-divisor-traversal](https://github.com/MarkXLV/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarkXLV/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MarkXLV/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/MarkXLV/leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3152-special-array-ii](https://github.com/MarkXLV/leetcode/tree/master/3152-special-array-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarkXLV/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
