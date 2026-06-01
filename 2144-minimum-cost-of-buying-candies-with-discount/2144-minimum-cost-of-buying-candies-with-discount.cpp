@@ -1,17 +1,14 @@
 class Solution {
 public:
     int minimumCost(vector<int>& cost) {
-        int sum=0;
-        sort(cost.rbegin(),cost.rend());
-        int idx=2;
-        for(int i=0;i<cost.size();i++)
-        {
-            
-            if(i==idx)
-              idx+=3;
-            else
-              sum+=cost[i];
+        sort(cost.begin(), cost.end(), greater<int>());
+        int res = 0;
+        int n = cost.size();
+        for (int i = 0; i < n; ++i) {
+            if (i % 3 != 2) {
+                res += cost[i];
+            }
         }
-        return sum;
+        return res;
     }
 };
