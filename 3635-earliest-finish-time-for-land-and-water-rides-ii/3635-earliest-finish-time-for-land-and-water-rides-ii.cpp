@@ -1,12 +1,3 @@
-// class Solution {
-// public:
-//     int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
-        
-//     }
-// };
-
-
-
 class Solution {
     int solve(vector<int>& start1, vector<int>& duration1, vector<int>& start2,
               vector<int>& duration2) {
