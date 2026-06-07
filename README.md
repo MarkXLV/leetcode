@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/MarkXLV/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MarkXLV/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
 ## Depth-First Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/MarkXLV/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MarkXLV/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MarkXLV/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MarkXLV/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
 | [2126-destroying-asteroids](https://github.com/MarkXLV/leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MarkXLV/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MarkXLV/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/MarkXLV/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/MarkXLV/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MarkXLV/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MarkXLV/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2365-task-scheduler-ii](https://github.com/MarkXLV/leetcode/tree/master/2365-task-scheduler-ii) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
