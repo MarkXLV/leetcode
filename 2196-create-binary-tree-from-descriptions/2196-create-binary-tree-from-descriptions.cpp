@@ -11,47 +11,31 @@
  */
 class Solution {
 public:
+
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_map<int,vector<pair<int,int>>>mp;
-        unordered_set<int>st;
-        for(auto x:descriptions)
-        {
-            st.insert(x[1]);
-            st.insert(x[0]);
+        int n = descriptions.size();
+        unordered_map<int, TreeNode*> mp;
+        unordered_set<int> mapi;
+        for(int i=0;i<n;i++){
+            if(!mp.count(descriptions[i][0])){
+                mp[descriptions[i][0]] = new TreeNode(descriptions[i][0]);
+            }
+            if(!mp.count(descriptions[i][1])){
+                mp[descriptions[i][1]] = new TreeNode(descriptions[i][1]);
+            }
+            if(descriptions[i][2] == 1){
+                mp[descriptions[i][0]]->left = mp[descriptions[i][1]];
+            }
+            else{
+                mp[descriptions[i][0]]->right = mp[descriptions[i][1]];
+            }
+            mapi.insert(descriptions[i][1]);
         }
-        for(auto x:descriptions)
-        {
-            mp[x[0]].push_back({x[1],x[2]});
-            st.erase(x[1]);
-        }
-        
-        TreeNode* root=new TreeNode(*st.begin());
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty())
-        {
-            int k=q.size();
-            while(k--)
-            {
-                auto x=q.front();
-                q.pop();
-                for(auto xx:mp[x->val])
-                {
-                    int child=xx.first;
-                    int isleft=xx.second;
-                    if(isleft)
-                    {
-                        x->left=new TreeNode(child);
-                        q.push(x->left);
-                    }else
-                    {
-                        x->right=new TreeNode(child);
-                        q.push(x->right);
-                    }
-                }
+        for(int i=0;i<n;i++){
+            if(!mapi.count(descriptions[i][0])){
+                return mp[descriptions[i][0]];
             }
         }
-        return root;
-        
+        return nullptr;
     }
 };
