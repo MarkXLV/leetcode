@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MarkXLV/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MarkXLV/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/MarkXLV/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MarkXLV/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MarkXLV/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MarkXLV/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/MarkXLV/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/MarkXLV/leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/MarkXLV/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2402-meeting-rooms-iii](https://github.com/MarkXLV/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/MarkXLV/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/MarkXLV/leetcode/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/MarkXLV/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Enumeration
 |  |
 | ------- |
