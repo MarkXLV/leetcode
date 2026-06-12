@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarkXLV/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MarkXLV/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MarkXLV/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/MarkXLV/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MarkXLV/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/MarkXLV/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MarkXLV/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MarkXLV/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/MarkXLV/leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarkXLV/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MarkXLV/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MarkXLV/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/MarkXLV/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/MarkXLV/leetcode/tree/master/1871-jump-game-vii) |
 | [2707-extra-characters-in-a-string](https://github.com/MarkXLV/leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MarkXLV/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MarkXLV/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
@@ -762,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/MarkXLV/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MarkXLV/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3133-minimum-array-end](https://github.com/MarkXLV/leetcode/tree/master/3133-minimum-array-end) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
 | ------- |
