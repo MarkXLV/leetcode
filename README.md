@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/MarkXLV/leetcode/tree/master/0809-expressive-words) |
 | [0881-boats-to-save-people](https://github.com/MarkXLV/leetcode/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/MarkXLV/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MarkXLV/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/MarkXLV/leetcode/tree/master/2540-minimum-common-value) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/MarkXLV/leetcode/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/MarkXLV/leetcode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/MarkXLV/leetcode/tree/master/0705-design-hashset) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
