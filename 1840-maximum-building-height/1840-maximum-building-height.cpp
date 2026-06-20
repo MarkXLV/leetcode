@@ -1,36 +1,5 @@
 class Solution {
 public:
-    bool isPossible(long long target,
-                    int n,
-                    vector<vector<int>>& restrictions) {
-
-        int m = restrictions.size();
-
-        for (int i = 1; i < m; i++) {
-
-            long long id1 = restrictions[i - 1][0];
-            long long h1  = restrictions[i - 1][1];
-
-            long long id2 = restrictions[i][0];
-            long long h2  = restrictions[i][1];
-
-            long long dist = id2 - id1;
-
-            long long peak =
-                max(h1, h2) +
-                (dist - abs(h1 - h2)) / 2;
-
-            if (peak >= target)
-                return true;
-        }
-
-        long long lastPeak =
-            (long long)restrictions.back()[1] +
-            (n - restrictions.back()[0]);
-
-        return lastPeak >= target;
-    }
-
     int maxBuilding(int n, vector<vector<int>>& restrictions) {
 
         restrictions.push_back({1, 0});
@@ -44,8 +13,7 @@ public:
             restrictions[i][1] = min(
                 restrictions[i][1],
                 restrictions[i - 1][1] +
-                restrictions[i][0] -
-                restrictions[i - 1][0]
+                restrictions[i][0] - restrictions[i - 1][0]
             );
         }
 
@@ -54,26 +22,35 @@ public:
             restrictions[i][1] = min(
                 restrictions[i][1],
                 restrictions[i + 1][1] +
-                restrictions[i + 1][0] -
-                restrictions[i][0]
+                restrictions[i + 1][0] - restrictions[i][0]
             );
         }
 
-        long long l = 0;
-        long long r = 1000000000LL;
         long long ans = 0;
 
-        while (l <= r) {
+        for (int i = 1; i < m; i++) {
 
-            long long mid = l + (r - l) / 2;
+            long long x1 = restrictions[i - 1][0];
+            long long h1 = restrictions[i - 1][1];
 
-            if (isPossible(mid, n, restrictions)) {
-                ans = mid;
-                l = mid + 1;
-            } else {
-                r = mid - 1;
-            }
+            long long x2 = restrictions[i][0];
+            long long h2 = restrictions[i][1];
+
+            long long dist = x2 - x1;
+
+            ans = max(
+                ans,
+                max(h1, h2) +
+                (dist - abs(h1 - h2)) / 2
+            );
         }
+
+        // Buildings after last restriction
+        ans = max(
+            ans,
+            (long long)restrictions.back()[1] +
+            (n - restrictions.back()[0])
+        );
 
         return (int)ans;
     }
