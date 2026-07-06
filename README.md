@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/MarkXLV/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/MarkXLV/leetcode/tree/master/1140-stone-game-ii) |
+| [1288-remove-covered-intervals](https://github.com/MarkXLV/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/MarkXLV/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/MarkXLV/leetcode/tree/master/1345-jump-game-iv) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/MarkXLV/leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/MarkXLV/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/MarkXLV/leetcode/tree/master/1340-jump-game-v) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MarkXLV/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
