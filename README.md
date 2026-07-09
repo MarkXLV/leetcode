@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/MarkXLV/leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarkXLV/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MarkXLV/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MarkXLV/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MarkXLV/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MarkXLV/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MarkXLV/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MarkXLV/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MarkXLV/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-special-array-ii](https://github.com/MarkXLV/leetcode/tree/master/3152-special-array-ii) |
 | [3161-block-placement-queries](https://github.com/MarkXLV/leetcode/tree/master/3161-block-placement-queries) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MarkXLV/leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Simulation
 |  |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MarkXLV/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2709-greatest-common-divisor-traversal](https://github.com/MarkXLV/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/MarkXLV/leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2421-number-of-good-paths](https://github.com/MarkXLV/leetcode/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/MarkXLV/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
