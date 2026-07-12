@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/MarkXLV/leetcode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/MarkXLV/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/MarkXLV/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/MarkXLV/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/MarkXLV/leetcode/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/MarkXLV/leetcode/tree/master/1406-stone-game-iii) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MarkXLV/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/MarkXLV/leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/MarkXLV/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/MarkXLV/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/MarkXLV/leetcode/tree/master/1340-jump-game-v) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/MarkXLV/leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MarkXLV/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/MarkXLV/leetcode/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/MarkXLV/leetcode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/MarkXLV/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/MarkXLV/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/MarkXLV/leetcode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MarkXLV/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MarkXLV/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
