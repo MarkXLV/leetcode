@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/MarkXLV/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarkXLV/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MarkXLV/leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MarkXLV/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MarkXLV/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-special-array-ii](https://github.com/MarkXLV/leetcode/tree/master/3152-special-array-ii) |
 | [3161-block-placement-queries](https://github.com/MarkXLV/leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MarkXLV/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarkXLV/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MarkXLV/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MarkXLV/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/MarkXLV/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MarkXLV/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MarkXLV/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/MarkXLV/leetcode/tree/master/2540-minimum-common-value) |
 | [3152-special-array-ii](https://github.com/MarkXLV/leetcode/tree/master/3152-special-array-ii) |
 | [3161-block-placement-queries](https://github.com/MarkXLV/leetcode/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/MarkXLV/leetcode/tree/master/3453-separate-squares-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MarkXLV/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MarkXLV/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MarkXLV/leetcode/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -859,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/MarkXLV/leetcode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/MarkXLV/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2013-detect-squares](https://github.com/MarkXLV/leetcode/tree/master/2013-detect-squares) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MarkXLV/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Data Stream
 |  |
@@ -1000,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/MarkXLV/leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/MarkXLV/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3152-special-array-ii](https://github.com/MarkXLV/leetcode/tree/master/3152-special-array-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/MarkXLV/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/MarkXLV/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/MarkXLV/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1095,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/MarkXLV/leetcode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MarkXLV/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MarkXLV/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MarkXLV/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Strongly Connected Component
 |  |
